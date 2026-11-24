@@ -10,7 +10,7 @@
 # UNIX or MAC
 spring:
   profiles:
-    active : dev
+    active : @spring.profiles.active@
 
 logging :
   # DEBUG, INFO , ERROR

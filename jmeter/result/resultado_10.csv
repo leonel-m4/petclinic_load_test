@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,success,allThreads
+1795544540856,67,Petición HTTP - Listar mascotas,200,,true,1
+1795544540924,10,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544541857,26,Petición HTTP - Listar mascotas,200,,true,1
+1795544541883,12,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544542857,20,Petición HTTP - Listar mascotas,200,,true,1
+1795544542877,14,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544543857,23,Petición HTTP - Listar mascotas,200,,true,1
+1795544543880,14,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544544857,14,Petición HTTP - Listar mascotas,200,,true,1
+1795544544871,22,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544545857,26,Petición HTTP - Listar mascotas,200,,true,1
+1795544545883,13,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544546857,20,Petición HTTP - Listar mascotas,200,,true,1
+1795544546877,12,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544547857,18,Petición HTTP - Listar mascotas,200,,true,1
+1795544547876,10,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544548857,13,Petición HTTP - Listar mascotas,200,,true,1
+1795544548870,15,Petición HTTP - Buscar mascota por id,200,,true,1
+1795544549857,18,Petición HTTP - Listar mascotas,200,,true,1
+1795544549876,8,Petición HTTP - Buscar mascota por id,200,,true,1
